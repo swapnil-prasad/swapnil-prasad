@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @swapnil-prasad
-- 👀 I’m interested in web development,full stack and artificial intelligence and machine learning.
-- 🌱 I’m currently pursuing B.E Computer engineering with specialization in artificial intelligence and machine learning.
-- 💞️ I’m looking to collaborate on web development,python programming or aiml stuffs.
-- 📫 How to reach me swapnilprasad153@gmail.com
+- 👋 Hi! I’m Swapnil Prasad
+- 👀 I’m learning M.E.R.N stack web development and I work on frontend web development.
+- 🌱 I’m currently pursuing B.E Artificial intelligence and Machine learning.
+- 💞️ I’m looking to collaborate on web development stuffs.
+- 📫 To reach out me swapnilprasad153@gmail.com
                      https://www.linkedin.com/in/swapnil-prasad-405648229
 
 
