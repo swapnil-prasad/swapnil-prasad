@@ -1,5 +1,5 @@
 - 👋 Hi! I’m Swapnil Prasad
-- 👀 I’m learning M.E.R.N stack web development and I work on frontend web development.
+- 👀 I’m an aspiring software development engineer and an enthusiastic web developer.
 - 🌱 I’m currently pursuing B.E Artificial intelligence and Machine learning.
 - 💞️ I’m looking to collaborate on web development stuffs.
 - 📫 To reach out me swapnilprasad153@gmail.com
